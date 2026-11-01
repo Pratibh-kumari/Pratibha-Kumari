@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05052b"/><stop offset=".52" stop-color="#071b45"/><stop offset="1" stop-color="#006b82"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#123b91"/><stop offset=".55" stop-color="#00d9f5"/><stop offset="1" stop-color="#39fff2"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="420" fill="url(#bg)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".72">
+  <path d="M0 250 C180 160 270 330 440 230 S700 180 830 260 S1080 330 1210 210 L1500 210"/>
+  <path d="M0 275 C180 185 270 355 440 255 S700 205 830 285 S1080 355 1210 235 L1500 235"/>
+  <path d="M0 300 C180 210 270 380 440 280 S700 230 830 310 S1080 380 1210 260 L1500 260"/>
+  <path d="M0 225 C180 135 270 305 440 205 S700 155 830 235 S1080 305 1210 185 L1500 185"/>
+  <path d="M1100 0 V92 H1190 V150 H1280 V90 H1390 V20"/>
+  <path d="M1180 420 V335 H1260 V295 H1340 V255 H1500"/>
+  <path d="M1320 420 V350 H1400 V310 H1500"/>
+</g>
+<g fill="#00eaff" filter="url(#glow)">
+  <circle cx="70" cy="230" r="6"/><circle cx="180" cy="210" r="5"/><circle cx="310" cy="275" r="7"/><circle cx="440" cy="230" r="6"/><circle cx="575" cy="205" r="5"/><circle cx="710" cy="230" r="7"/><circle cx="840" cy="265" r="6"/><circle cx="990" cy="300" r="5"/><circle cx="1150" cy="210" r="7"/><circle cx="1280" cy="90" r="5"/><circle cx="1390" cy="20" r="5"/>
+</g>
+<g transform="translate(1245 115)" filter="url(#glow)">
+  <path d="M35 55 V38 a42 42 0 0 1 84 0 v17" fill="none" stroke="#e9ffff" stroke-width="13" stroke-linecap="round"/>
+  <rect x="18" y="52" width="118" height="112" rx="13" fill="#f5ffff"/>
+  <circle cx="77" cy="99" r="14" fill="#07516d"/>
+  <path d="M77 111 v25" stroke="#07516d" stroke-width="12" stroke-linecap="round"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="92" y="115" fill="#ffffff" font-size="47" font-weight="700">PRATIBHA KUMARI</text>
+  <text x="96" y="160" fill="#8cefff" font-size="23" letter-spacing="2">CYBERSECURITY  •  DFIR  •  AI / ML</text>
+  <text x="96" y="195" fill="#c5d9ff" font-size="17" letter-spacing="1">B.Tech CSE (Cybersecurity) | Rashtriya Raksha University</text>
+</g>
+</svg>
