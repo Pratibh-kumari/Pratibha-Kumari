@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Pratibha Kumari
 
-### 🔐 Cybersecurity Enthusiast | 💻 CSE Student | 🤖 AI/ML Explorer
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:301060,100:00C9FF&height=3" width="100%"/>
+### 🔐 Cybersecurity Enthusiast | 🤖 AI/ML Explorer | 💻 Computer Science Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Digital+Forensics;AI%2FML+%7C+Secure+Systems;Building+%2E+Learning+%2E+Securing+%2E" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301060,100:00C9FF&height=180&section=header&text=Pratibha%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Digital%20Forensics&descAlignY=60&descSize=17" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+Secure+Technology+Solutions;Exploring+Digital+Forensics;Learning+AI%2FML+for+Cybersecurity;Build.+Learn.+Secure.+Repeat." />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 I'm a Computer Science Engineering student at **Rashtriya Raksha University (RRU), Gandhinagar**, specializing in Cyber Security.
 
-I enjoy exploring cybersecurity, digital forensics, artificial intelligence, and building practical technology solutions.
+My interests lie at the intersection of cybersecurity, artificial intelligence, and software engineering. I enjoy building practical solutions, exploring security challenges, and continuously improving my technical skills.
 
-- 🎓 Pursuing B.Tech in CSE (Cyber Security) — RRU (2025–2028)
-- 🔐 Interested in Cybersecurity, Digital Forensics & Network Security
-- 🐍 Currently focusing on Python and Data Structures & Algorithms
-- 🛡️ Exploring Linux, CTFs, Ethical Hacking and Security Tools
-- 🤖 Interested in AI/ML-powered security solutions
+- 🎓 B.Tech CSE (Cyber Security), RRU (2025–2028)
+- 🔐 Interested in Cybersecurity & Digital Forensics
+- 🤖 Exploring AI/ML applications in security
+- 🐍 Practicing Python and Data Structures & Algorithms
+- 🐧 Working with Linux, Kali Linux and security tools
 - 🏆 Winner – Smart Bihar Hackathon 2024
-- 🌱 Learning, building and contributing to technology projects.
+- 🌱 Always learning and building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
@@ -40,123 +42,144 @@ I enjoy exploring cybersecurity, digital forensics, artificial intelligence, and
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker&theme=dark" />
 </p>
 
-`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `Cisco Packet Tracer` · `Digital Forensics` · `CTF`
+`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `Cisco Packet Tracer` · `CTF` · `Digital Forensics`
 
-### Development & Technologies
+### Development & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb,firebase,git,github,vscode&theme=dark" />
 </p>
 
-### Areas of Interest
-
-- 🔐 Cybersecurity & Ethical Hacking
-- 🔎 Digital Forensics & Incident Response (DFIR)
-- 🌐 Network Security
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Secure Application Development
-- 🧩 Data Structures & Algorithms
-
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3>🔎 ForensiQ</h3>
-<p>An extensible digital forensics toolkit for evidence examination, forensic analysis and CTF investigations, including forgery detection capabilities.</p>
-<b>Focus:</b> Digital Forensics, CTF, Security
+<td width="50%" valign="top">
+
+### 🔎 ForensiQ
+
+An extensible digital forensics toolkit designed for forensic investigation, evidence analysis, CTF workflows and digital forgery detection.
+
+**Focus:** Digital Forensics | DFIR | CTF
+
 </td>
-<td width="50%">
-<h3>⛏️ Trishuli</h3>
-<p>AI-enabled low-cost real-time mine subsidence monitoring, prediction and early warning system using sensor networks and machine learning.</p>
-<b>Focus:</b> IoT, AI/ML, Monitoring
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🛡️ PRAHARI</h3>
-<p>A security-focused technology project designed to address practical security challenges.</p>
-<b>Focus:</b> Cybersecurity
-</td>
-<td width="50%">
-<h3>🚪 Smart Gate</h3>
-<p>QR-based campus visitor management system with QR passes, host approval, OTP verification and live dashboards.</p>
-<b>Tech:</b> Node.js, MongoDB, Firebase, Twilio
+<td width="50%" valign="top">
+
+### ⛏️ Trishuli
+
+AI-enabled low-cost real-time mine subsidence monitoring, prediction and early warning system using sensor networks and machine learning.
+
+**Focus:** IoT | AI/ML | Edge Computing
+
 </td>
 </tr>
+
 <tr>
-<td width="50%">
-<h3>📦 CoreInventory</h3>
-<p>An inventory management project developed to organize and manage inventory-related operations.</p>
-<b>Focus:</b> Software Development
+<td width="50%" valign="top">
+
+### 🛡️ PRAHARI
+
+A security-focused project developed to explore practical cybersecurity solutions.
+
+**Focus:** Cybersecurity
+
 </td>
-<td width="50%">
-<h3>🧬 Drug Toxicity Predictor AI</h3>
-<p>Machine learning-based project focused on predicting drug toxicity.</p>
-<b>Focus:</b> Python, AI/ML
+<td width="50%" valign="top">
+
+### 🚪 Smart Gate
+
+QR-based campus visitor management with visitor passes, host approval, OTP verification and live dashboards.
+
+**Tech:** Node.js | MongoDB | Firebase | Twilio
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 CoreInventory
+
+An inventory management application designed to organize and manage inventory operations.
+
+**Focus:** Software Development
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Drug Toxicity Predictor AI
+
+A machine learning project focused on predicting drug toxicity.
+
+**Focus:** Python | Machine Learning
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 - 🥇 Winner – Smart Bihar Hackathon 2024
-- 🚀 Participant – Smart India Hackathon 2025 (Internal Round)
+- 🚀 Smart India Hackathon 2025 – Internal Round Participant
 - 🏆 Craftathon 2026
 - 🤖 Product Space AI Agent Hackathon
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratibh-kumari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibh-kumari&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratibh-kumari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibh-kumari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Pratibh-kumari&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Pratibh-kumari&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratibh-kumari&theme=algolia&no-frame=true&row=1&column=6" width="100%" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Pratibh-kumari&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Currently Exploring
 
-- 🔐 Improving cybersecurity and digital forensics skills.
-- 💻 Practicing Data Structures & Algorithms using Python.
-- 🧪 Exploring CTF challenges and practical security tools.
-- 🤖 Building AI/ML-powered applications.
-- 🚀 Developing real-world projects and contributing to GitHub.
+- 🔐 Digital Forensics & Incident Response
+- 🌐 Network Security & Ethical Hacking
+- 🧠 AI/ML for Cybersecurity
+- 💻 Data Structures & Algorithms with Python
+- 🐧 Linux and practical CTF challenges
+- 🚀 Secure application development
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Pratibh-kumari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pra169542bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratibha200801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00C9FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00C9FF&height=100&section=footer" width="100%" />
 </p>
 
-<h3 align="center">💡 "Learn continuously. Build fearlessly. Secure everything."</h3>
+<h3 align="center">"Learn continuously. Build fearlessly. Secure everything."</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let's connect and build something meaningful.
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
