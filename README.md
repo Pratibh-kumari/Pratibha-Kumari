@@ -30,27 +30,7 @@ I'm a **B.Tech Computer Science Engineering student specializing in Cybersecurit
 
 ---
 
-## 💼 Experience
 
-### Cybersecurity Analyst Intern · VicyTech
-*Aug 2026 – Feb 2027 · Remote*
-
-- Six-month cybersecurity internship focused on Digital Forensics & Incident Response (DFIR) and machine learning for security.
-- Developing practical exposure to forensic investigation and security workflows.
-
-### AI & ML Intern · IICT, New Delhi
-*Jun 2026 – Jul 2026*
-
-- **AI-Driven Phishing Email Detection:** Built an NLP pipeline using TF-IDF and six structural/metadata features on a 53,964-email dataset. Random Forest achieved **98.23% accuracy (F1 = 0.983)** in the reported evaluation.
-- **AI-Powered Fake News Detection:** Built a text-cleaning, TF-IDF, training, and evaluation pipeline on the ISOT dataset (39,105 articles). Random Forest achieved **99.58% accuracy (F1 = 0.996)** in the reported evaluation.
-- Authored two IEEE-format technical reports covering methodology, model comparisons, confusion matrices, and feature-importance interpretation.
-
-### AI/ML Intern · Infosys Springboard Internship 7.0 (Batch 5)
-*Oct 2026 – Present*
-
-- Selected for the virtual internship program; final confirmation is pending document verification.
-
----
 
 ## 🧰 Technical Skills
 
@@ -70,65 +50,10 @@ I'm a **B.Tech Computer Science Engineering student specializing in Cybersecurit
 
 ---
 
-## 🚀 Selected Projects
-
-### 🔐 ArmourTrack — Digital Asset Accountability System
-- **First Runner-Up, CRAFTATHON 2026** (IEEE-sponsored; 484 participants).
-- Tamper-evident audit system using RSA-signed QR codes and a hash-chain ledger.
-- **Technology:** ESP32, RFID, GPS, RSA, hash-chain ledger.
-
-### 💳 Secure POS System — HackTheSpring'26, GEC Gandhinagar
-- **3rd Rank among 80 teams**, with jury appreciation for the hardware security implementation.
-- Focused on embedded security and POS modernization.
-
-### 🚦 GreenWave — AI-Driven Emergency Traffic Corridor System
-- Selected for the **National Showcase at Bharat Mandapam**.
-- Computer-vision and IoT-based autonomous corridor concept for emergency vehicles.
-- **Technology:** Computer vision, IoT, embedded systems, web dashboard.
-
-### 🧬 Drug Toxicity Predictor AI — CodeCure Biohackathon
-- Built an end-to-end machine-learning pipeline to predict compound toxicity from SMILES strings using the Tox21 dataset.
-- Used 2,048-bit Morgan fingerprints and molecular descriptors; compared Random Forest, XGBoost, and Logistic Regression.
-- Added SHAP explainability and deployed the application with Streamlit.
-- **Technology:** Python, RDKit, scikit-learn, XGBoost, SHAP, Streamlit.
-
-### 🆘 Vault-SOS
-- ESP8266-based offline SOS node with local logging.
-
-### 🚪 Smart Gate
-- QR-based visitor management system with host approval.
-- **Technology:** Node.js, MongoDB, JavaScript, HTML.
-
-### Other Projects
-- **Travelio:** AI transport assistant (HTML, JavaScript).
-- **Library Management System:** Java Swing desktop application.
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 **First Runner-Up** — CRAFTATHON 2026 (IEEE-sponsored; 484 participants)
-- 🥉 **3rd Rank** — Secure POS System, HackTheSpring'26 (80 teams)
-- 🌐 **National Showcase Selection** — GreenWave, Bharat Mandapam
-- 🥇 **Winner** — Smart Bihar Hackathon 2024
-- 🚀 **Participant** — Smart India Hackathon 2025 (RRU Internal Round)
-
----
-
-## 📜 Certifications & Training
-
-- Ethical Hacking Workshop — IIT Gandhinagar (2026)
-- Cisco Networking Academy: Cybersecurity Essentials
-- Cisco Networking Academy: Introduction to Cybersecurity
-- Cisco Networking Academy: IT Essentials
-- Cisco Networking Academy: Introduction to Packet Tracer
-- Summer Internship in AI & ML — IICT (2026)
-- Infosys Springboard: Introduction to AI, AI Primer, Principles of Generative AI, Generative Models for Developers, Deep Learning for Developers
-- Industrial Automation — IIT Patna (2025)
-- DBMS — Scaler Topics (2025)
-- Java Swing Internship Training — ITSpring Edutech (2025)
-- Python Industrial Training — ITSpring Edutech (2023)
-- MATLAB Workshop — RRU
 
 ---
 
