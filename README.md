@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/Pratibh-kumari"><img src="https://img.shields.io/badge/GitHub-Pratibh--kumari-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pra169542bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/ANUPAMSAH7072"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe" /></a>
 </p>
 
 <p align="center">
@@ -166,7 +165,6 @@ I'm a **B.Tech Computer Science Engineering student specializing in Cybersecurit
 <p align="center">
   <a href="https://github.com/Pratibh-kumari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pra169542bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/ANUPAMSAH7072"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 <p align="center"><b>“Learn continuously. Investigate carefully. Build securely.”</b></p>
