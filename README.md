@@ -1,96 +1,143 @@
 # 👋 Hi, I'm Pratibha Kumari
 
-### 🔐 Cybersecurity Enthusiast · 🤖 AI/ML Explorer · 💻 Computer Science Engineering Student
+### 🔐 Cybersecurity Analyst Intern · DFIR · AI/ML for Security
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:301060,100:00C9FF&height=180&section=header&text=Pratibha%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Digital%20Forensics&descAlignY=60&descSize=17" width="100%" alt="Pratibha Kumari — Cybersecurity, AI/ML and Digital Forensics" />
+  <img src="./cybersecurity-banner.svg" width="100%" alt="Dark navy cybersecurity banner with cyan circuit paths and a padlock" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+secure+technology+solutions;Exploring+digital+forensics;Learning+AI%2FML+for+cybersecurity;Build.+Learn.+Secure.+Repeat." alt="Cybersecurity and development interests" />
+  <a href="https://github.com/Pratibh-kumari"><img src="https://img.shields.io/badge/GitHub-Pratibh--kumari-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/pra169542bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/ANUPAMSAH7072"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pratibh-kumari"><img src="https://img.shields.io/badge/GitHub-Pratibh--kumari-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%2B%20AI%2FML-2457D6?style=for-the-badge" alt="Cybersecurity and AI/ML focus" />
-  <img src="https://img.shields.io/badge/Location-Gandhinagar%2C%20India-6A45C2?style=for-the-badge" alt="Gandhinagar, India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=720&lines=Digital+Forensics+%26+Incident+Response;SOC+%26+Threat+Analysis;AI%2FML+for+Cybersecurity;Build.+Investigate.+Secure." alt="Areas of interest" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student at **Rashtriya Raksha University (RRU), Gandhinagar**, specializing in Cyber Security.
+I'm a **B.Tech Computer Science Engineering student specializing in Cybersecurity at Rashtriya Raksha University (RRU), Gandhinagar**. My work and learning interests span Digital Forensics & Incident Response (DFIR), SOC and blue-team fundamentals, threat analysis, network reconnaissance, and applying machine learning to security problems.
 
-I'm interested in the intersection of **cybersecurity, digital forensics, artificial intelligence, and software engineering**. I enjoy learning by building practical projects, exploring security challenges, and improving my problem-solving skills.
-
-- 🎓 **B.Tech CSE (Cyber Security)** — Rashtriya Raksha University (2025–2028)
-- 🔐 Interested in cybersecurity, digital forensics, and network security
-- 🤖 Exploring AI/ML applications for practical security problems
-- 🐍 Practicing Python and Data Structures & Algorithms
-- 🐧 Learning through Linux, security tools, and CTF challenges
-- 🏆 Winner — Smart Bihar Hackathon 2024
-- 🌱 Always learning, experimenting, and building.
+- 🛡️ **Cybersecurity Analyst Intern** at VicyTech — DFIR focus (Aug 2026 – Feb 2027)
+- 🤖 **AI & ML Intern** at IICT, New Delhi (Jun 2026 – Jul 2026)
+- 🎓 B.Tech CSE (Cybersecurity), RRU (2025–2028) — GPA: 7.05
+- 🎓 Diploma in Computer Science Engineering, Government Women's Polytechnic College (2022–2025) — GPA: 8.89
+- 🧪 Interested in SOC alert triage, IOC investigation, digital forensics, threat intelligence, and AI security
+- 🐍 Building with Python; strengthening security fundamentals and practical investigation skills
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,kotlin,mysql&theme=dark" alt="Python, C, Java, JavaScript, Kotlin and MySQL" />
-</p>
+### Cybersecurity Analyst Intern · VicyTech
+*Aug 2026 – Feb 2027 · Remote*
 
-### Cybersecurity & Networking
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker&theme=dark" alt="Kali Linux, Linux, Bash and Docker" />
-</p>
+- Six-month cybersecurity internship focused on Digital Forensics & Incident Response (DFIR) and machine learning for security.
+- Developing practical exposure to forensic investigation and security workflows.
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-1679A7?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/CTF-Practice-6A45C2?style=flat-square" alt="CTF practice" />
-</p>
+### AI & ML Intern · IICT, New Delhi
+*Jun 2026 – Jul 2026*
 
-### Development & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb,firebase,git,github,vscode&theme=dark" alt="HTML, CSS, Node.js, MongoDB, Firebase, Git, GitHub and VS Code" />
+- **AI-Driven Phishing Email Detection:** Built an NLP pipeline using TF-IDF and six structural/metadata features on a 53,964-email dataset. Random Forest achieved **98.23% accuracy (F1 = 0.983)** in the reported evaluation.
+- **AI-Powered Fake News Detection:** Built a text-cleaning, TF-IDF, training, and evaluation pipeline on the ISOT dataset (39,105 articles). Random Forest achieved **99.58% accuracy (F1 = 0.996)** in the reported evaluation.
+- Authored two IEEE-format technical reports covering methodology, model comparisons, confusion matrices, and feature-importance interpretation.
+
+### AI/ML Intern · Infosys Springboard Internship 7.0 (Batch 5)
+*Oct 2026 – Present*
+
+- Selected for the virtual internship program; final confirmation is pending document verification.
+
+---
+
+## 🧰 Technical Skills
+
+| Area | Skills & Tools |
+|---|---|
+| **Security & Reconnaissance** | Nmap, Nikto, Burp Suite, OWASP ZAP, Google Dorking, OSINT, network reconnaissance |
+| **Blue Team & DFIR** | DFIR fundamentals, SOC/Blue Team fundamentals, SIEM/EDR fundamentals, IOC investigation, Cyber Kill Chain |
+| **Network & Systems** | TCP/IP, routing and switching, DNS tools (nslookup, dig), Cisco Packet Tracer, Linux basics, Windows |
+| **Programming** | Python, C, SQL, Java (Swing), JavaScript |
+| **AI / ML & Data** | scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, NLP/text classification, SHAP |
+| **Development & Tools** | MongoDB, Node.js (basic), HTML5, CSS3, Streamlit, Git, VS Code, Arduino IDE, MATLAB |
+| **Special Topics** | AI Security, Adversarial ML, secure coding, secure system design, OT/ICS security fundamentals, cryptography basics |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,mysql,html,css,nodejs,mongodb,git,github,linux,docker,vscode&theme=dark" alt="Programming and development tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-| Project | Overview | Focus |
-|---|---|---|
-| **ForensiQ** | Extensible digital forensics toolkit for evidence examination, investigation workflows, CTF support, and forgery-detection modules. | Digital Forensics · DFIR · CTF |
-| **Trishuli** | AI-enabled, low-cost mine subsidence monitoring, prediction, and early-warning concept using sensor networks and machine learning. | IoT · AI/ML · Edge Computing |
-| **PRAHARI** | Security-focused project exploring practical approaches to cybersecurity challenges. | Cybersecurity |
-| **Smart Gate** | QR-based campus visitor management with visitor passes, host approval, OTP verification, and live dashboards. | Node.js · MongoDB · Firebase |
-| **CoreInventory** | Inventory management project for organizing and managing inventory operations. | Software Development |
-| **Drug Toxicity Predictor AI** | Machine-learning project focused on predicting drug toxicity. | Python · Machine Learning |
+### 🔐 ArmourTrack — Digital Asset Accountability System
+- **First Runner-Up, CRAFTATHON 2026** (IEEE-sponsored; 484 participants).
+- Tamper-evident audit system using RSA-signed QR codes and a hash-chain ledger.
+- **Technology:** ESP32, RFID, GPS, RSA, hash-chain ledger.
 
-> Explore the repositories on my [GitHub profile](https://github.com/Pratibh-kumari). Project descriptions are summaries; implementation details are documented in each repository.
+### 💳 Secure POS System — HackTheSpring'26, GEC Gandhinagar
+- **3rd Rank among 80 teams**, with jury appreciation for the hardware security implementation.
+- Focused on embedded security and POS modernization.
+
+### 🚦 GreenWave — AI-Driven Emergency Traffic Corridor System
+- Selected for the **National Showcase at Bharat Mandapam**.
+- Computer-vision and IoT-based autonomous corridor concept for emergency vehicles.
+- **Technology:** Computer vision, IoT, embedded systems, web dashboard.
+
+### 🧬 Drug Toxicity Predictor AI — CodeCure Biohackathon
+- Built an end-to-end machine-learning pipeline to predict compound toxicity from SMILES strings using the Tox21 dataset.
+- Used 2,048-bit Morgan fingerprints and molecular descriptors; compared Random Forest, XGBoost, and Logistic Regression.
+- Added SHAP explainability and deployed the application with Streamlit.
+- **Technology:** Python, RDKit, scikit-learn, XGBoost, SHAP, Streamlit.
+
+### 🆘 Vault-SOS
+- ESP8266-based offline SOS node with local logging.
+
+### 🚪 Smart Gate
+- QR-based visitor management system with host approval.
+- **Technology:** Node.js, MongoDB, JavaScript, HTML.
+
+### Other Projects
+- **Travelio:** AI transport assistant (HTML, JavaScript).
+- **Library Management System:** Java Swing desktop application.
 
 ---
 
 ## 🏆 Achievements
 
+- 🥇 **First Runner-Up** — CRAFTATHON 2026 (IEEE-sponsored; 484 participants)
+- 🥉 **3rd Rank** — Secure POS System, HackTheSpring'26 (80 teams)
+- 🌐 **National Showcase Selection** — GreenWave, Bharat Mandapam
 - 🥇 **Winner** — Smart Bihar Hackathon 2024
 - 🚀 **Participant** — Smart India Hackathon 2025 (RRU Internal Round)
-- 🏆 **Craftathon 2026**
-- 🤖 **Product Space AI Agent Hackathon**
 
 ---
 
-## 📊 GitHub Statistics
+## 📜 Certifications & Training
+
+- Ethical Hacking Workshop — IIT Gandhinagar (2026)
+- Cisco Networking Academy: Cybersecurity Essentials
+- Cisco Networking Academy: Introduction to Cybersecurity
+- Cisco Networking Academy: IT Essentials
+- Cisco Networking Academy: Introduction to Packet Tracer
+- Summer Internship in AI & ML — IICT (2026)
+- Infosys Springboard: Introduction to AI, AI Primer, Principles of Generative AI, Generative Models for Developers, Deep Learning for Developers
+- Industrial Automation — IIT Patna (2025)
+- DBMS — Scaler Topics (2025)
+- Java Swing Internship Training — ITSpring Edutech (2025)
+- Python Industrial Training — ITSpring Edutech (2023)
+- MATLAB Workshop — RRU
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratibh-kumari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibh-kumari&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratibh-kumari&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -103,31 +150,23 @@ I'm interested in the intersection of **cybersecurity, digital forensics, artifi
 
 ---
 
-## 🎯 Currently Learning & Exploring
+## 🎯 Current Focus
 
-- 🔐 Digital Forensics & Incident Response
-- 🌐 Network Security and ethical hacking fundamentals
-- 🧠 AI/ML applications in cybersecurity
-- 💻 Data Structures & Algorithms with Python
-- 🐧 Linux and hands-on CTF challenges
-- 🚀 Secure application development
+- Digital Forensics & Incident Response (DFIR)
+- SOC operations, alert triage, and IOC investigation
+- Threat intelligence and network reconnaissance
+- AI/ML applications for phishing and other security problems
+- OT/ICS security fundamentals
+- Python and Data Structures & Algorithms
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/Pratibh-kumari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pra169542bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pratibha200801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tryhackme.com/p/ANUPAMSAH7072"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00C9FF&height=100&section=footer" width="100%" alt="" />
-</p>
-
-<h3 align="center">“Learn continuously. Build fearlessly. Secure everything.”</h3>
-
-<p align="center">Thanks for visiting my GitHub profile. ⭐</p>
+<p align="center"><b>“Learn continuously. Investigate carefully. Build securely.”</b></p>
